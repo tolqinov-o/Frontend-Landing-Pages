@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    transition: 0.5s ease-in-out;
+    font-family: "Radio Canada Big", sans-serif;
+}
+
+header .card {
+    border-radius: 15px;
+    background: #E3F1FF;
+}
+
+section .col .card:hover {
+    cursor: pointer;
+    transform: translateY(-20px);
+    transition: 0.5s;
+}
+
+section .card, .col, img {
+    border-radius: 15px;
+}
+
+section .join {
+    width: 100%;
+    min-height: 500px;
+    background: #FFD7C9;
+}
+
+section small span {
+    cursor: pointer;
+    text-decoration: 3px underline #FF642F;
+}
+
+footer {
+    width: 100%;
+    min-height: 500px;
+    background: #F9F9F9;
+}

@@ -1,0 +1,22 @@
+<img width="100%" src="./Tastebite/img/main/main.gif" alt="Frontend-Landing-Page" />
+
+# Frontend-Landing-Page
+My_Frontend || Landing-Pages
+
+## All Landing-Pages
+ - [LandingPage - 1](https://github.com/tolqinov-o/Frontend-Landing-Pages/tree/main/Tastebite)
+
+## Tech Stack
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+## Authors
+
+- [T.Oqilbek](https://www.github.com/tolqinov-o)
+
+### All Landing-Pages Demo
+
+- [LandingPage - 1 || Live Demo](https://my-landing-pages-1.netlify.app)
