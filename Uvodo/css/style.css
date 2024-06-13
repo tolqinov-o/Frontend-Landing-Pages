@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    transition: 0.5s ease-in-out;
+    font-family: "Radio Canada Big", sans-serif;
+}
+
+header {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+}
+
+main .btn {
+    border-radius: 20px;
+}
+
+.mono-text {
+    color: #624CE0;
+}
+
+.bg {
+    width: 100%;
+    min-height: 100%;
+    background-image: url(../img/background1.png);
+}
+
+#support .card {
+    border-radius: 20px;
+}
+
+#pricing .card {
+    border-radius: 20px;
+}
+
+#support .card:hover {
+    transform: translateY(-20px);
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+}
+#pricing .card:hover {
+    transform: translateY(-20px);
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+#support {
+    width: 100%;
+    min-height: 100%;
+    background: #F6F6F6;
+}
+
+footer {
+    width: 100%;
+    min-height: 530px;
+    background: black;
+}
