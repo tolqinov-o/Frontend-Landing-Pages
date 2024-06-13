@@ -5,6 +5,7 @@ My_Frontend || Landing-Pages
 
 ## All Landing-Pages
  - [LandingPage - 1](https://github.com/tolqinov-o/Frontend-Landing-Pages/tree/main/Tastebite)
+ - [LandingPage - 2](https://github.com/tolqinov-o/Frontend-Landing-Pages/tree/main/Uvodo)
 
 ## Tech Stack
 
@@ -12,6 +13,7 @@ My_Frontend || Landing-Pages
 - CSS
 - Bootstrap
 - JavaScript
+- Responsive
 
 ## Authors
 
@@ -20,3 +22,4 @@ My_Frontend || Landing-Pages
 ### All Landing-Pages Demo
 
 - [LandingPage - 1 || Live Demo](https://my-landing-pages-1.netlify.app)
+- [LandingPage - 1 || Live Demo](https://my-landing-pages-2.netlify.app)
