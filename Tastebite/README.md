@@ -22,6 +22,7 @@ My_Frontend || Landing-Page-1
 - HTML
 - CSS
 - Bootstrap
+- Responsive
 
 ## Authors
 
